@@ -25,6 +25,7 @@ MemeVerse is a modern and responsive web application where users can:
 ## 🛠️ Tech Stack
 
 - **Frontend:** Next js, CSS (Tailwind)
+- **Backend** (optional):** Node.js + Express + MongoDB
 - **File Storage (optional):** Local folder (for demo) 
 
 ---
@@ -50,3 +51,18 @@ Backend (if added)
 ```bash
 node server.js
 ```
+## ✨ Future Improvements
+💬 Add comment and like system
+
+🔐 User authentication (sign up / login)
+
+📱 Progressive Web App (PWA) support
+
+🎨 Dark mode toggle
+
+## 🤝 Contributing
+Contributions are welcome!
+Feel free to open issues and submit pull requests.
+
+## 🙌 Author
+Made with ❤️ by Digar Singh
