@@ -18,7 +18,7 @@ MemeVerse is a modern and responsive web application where users can:
 
 ## 🖼️ Screenshots
 
-> Insert screenshots or GIFs of the application here (homepage, upload modal, meme feed)
+> ![Screenshot 1](./Screenshot%202025-06-.png)
 
 ---
 
