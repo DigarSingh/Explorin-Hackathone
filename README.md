@@ -18,7 +18,7 @@ MemeVerse is a modern and responsive web application where users can:
 
 ## 🖼️ Screenshots
 
-> ![Screenshot 1](./Screenshot.png)
+> ![Screenshot 1](./public/memes/Screenshot.png)
 
 ---
 
