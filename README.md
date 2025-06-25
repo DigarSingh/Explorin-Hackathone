@@ -24,9 +24,8 @@ MemeVerse is a modern and responsive web application where users can:
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS (Tailwind or Bootstrap), JavaScript
-- **Backend (optional):** Node.js + Express + MongoDB (or Firebase for easy hosting)
-- **File Storage (optional):** Local folder (for demo) or Firebase / Cloudinary
+- **Frontend:** Next js, CSS (Tailwind)
+- **File Storage (optional):** Local folder (for demo) 
 
 ---
 
